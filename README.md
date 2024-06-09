@@ -10,7 +10,7 @@ I'm sort of a bootstrapped developer, but I've reached that stage in my career w
 
 [Keggorator Project](./projects/KeggeratorBuild.md) (*Finished/Ongoing*): The end goal was to never have to bottle beer again.  Or at least make it as painless as possible.  I wanted something that could hold multiple corney kegs for serving and maybe one for conditioning as well.  I also wanted it to be an all in one bar.
 
-[Monitor Mount(*Finished*)](./projects/monitorMount.md): I acquired a couple of additional monitors and had no interest in paying for stupid overpriced mounts on the internet.
+[Monitor Mount](./projects/monitorMount.md)(*Finished*): I acquired a couple of additional monitors and had no interest in paying for stupid overpriced mounts on the internet.
 
 Office desk:
 
@@ -18,4 +18,4 @@ Mash tun temperature controller:
 
 Home lighting system controller
 
-Water flow monitor
+Water flow monitor:
