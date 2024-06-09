@@ -1,6 +1,6 @@
 # Custom Keggerator build
 
-![keggeratorBuild_bar_lansdale](/Users/mreff555/src/mreff555/resources/keggeratorBuild_bar_lansdale.jpg)
+![keggeratorBuild_bar_lansdale](../resources/keggeratorBuild_bar_lansdale.jpg)
 
 I've been a home brewer since 2008.  It's a good hobby for a beer enthusiast at well as an engineer as it provides a creative outlet for both.  It does not by any means save you money.  At least not in my experience.  Primarily since every dollar I save, I tend to put back into R&D.  Primarily process development.  This is not the first or last component I created for brewing, and I will have to post more in the future.
 
