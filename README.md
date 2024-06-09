@@ -2,7 +2,7 @@
 
 *loath confluence, scrutinize man files, trust headers*
 
-[me](./resources/bathtubSmall.png)
+![me](./resources/bathtubSmall.png)
 
 I'm sort of a bootstrapped developer, but I've reached that stage in my career where I just tell<br />other people what do and get yelled at when they do it badly.  In my spare time I have a lot<br />of hobbies that have nothing to do with computers, and most of them involving dirt<br />, snow or booze.  I like Jeeps!  I like hiking into the middle of nowhere and spending<br />a stupid amount of money on gear to pretend to be homeless for extended periods of time.<br />I ski, drink beer, make beer, and sometimes when I've exhausted all other options, I code<br />for fun.  I firmly believe that anything other than c/c++ is for lazy people with ADHD. and<br />and Java is just an annoying insecure trend that hasn't died yet.<br /><br />Below are a few coding, or engineering projects which are at varying levels of not done. <br />Some of them aren't much more complicated then nailing two boards together, while others<br />took some thought.
 
